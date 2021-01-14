@@ -1,4 +1,4 @@
-# IBM Cloud Foundry - V2Ray
+# IBM Cloud Fo@undry - V2Ray
 
 Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
 
